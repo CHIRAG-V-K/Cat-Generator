@@ -1,0 +1,18 @@
+.container-2 {
+  border: 1px solid black;
+  text-align: center;
+  text-shadow: 1px 1px;
+  margin: 0 auto;
+  background-color: aquamarine;
+}
+
+.flex-box-container-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.flex-box-container-2 img {
+  margin: 10px;
+  box-shadow: 0px 10px 50px black;
+}
