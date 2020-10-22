@@ -4,6 +4,7 @@
   text-shadow: 1px 1px;
   margin: 0 auto;
   background-color: aquamarine;
+  min-height: 800px;
 }
 
 .flex-box-container-2 {
@@ -15,4 +16,9 @@
 .flex-box-container-2 img {
   margin: 10px;
   box-shadow: 0px 10px 50px black;
+}
+
+p{
+  
+  float: right;
 }
